@@ -129,3 +129,5 @@ $$v_{\text{escape}} = \sqrt{\frac{2GM}{r}}$$
    - Highlighted how a white dwarf nearing the **Chandrasekhar limit** could trigger a Type Ia supernova.
 
 This methodical approach connects the mathematical derivation to its astrophysical implications.
+
+Thank you for reading.
